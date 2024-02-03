@@ -3,6 +3,7 @@ using namespace std;
 int main()
 // We put "1" to indicate there is a ship.
 {
+
 bool ships[4][4] = {
   { 0, 1, 1, 0 },
   { 0, 0, 0, 0 },
